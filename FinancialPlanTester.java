@@ -1,6 +1,5 @@
-package financialPlanning;
 
-public class tester {
+public class FinancialPlanTester {
 
 	public static void main(String[] args) {
 
@@ -10,5 +9,3 @@ public class tester {
 
 		}
 	}
-
-
