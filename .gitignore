@@ -1,0 +1,5 @@
+#ignore all .classpath
+*.classpath
+
+#ingore all .project
+*project
