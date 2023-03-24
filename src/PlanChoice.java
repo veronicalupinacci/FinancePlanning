@@ -1,4 +1,9 @@
-
+/**
+ * This class is used to manage which choice the user inputs.
+ * 
+ *@author Veronica Lupinacci
+ *@version Mar 24, 2023
+ */
 import java.text.DecimalFormat;
 import java.util.Scanner;
 

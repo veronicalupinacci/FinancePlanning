@@ -1,10 +1,13 @@
-
+/**
+ * This class keeps a record of the user data.
+ * 
+ *@author Veronica Lupinacci
+ *@version Mar 24, 2023
+ */
 public class AccountRecord {
-	// The 9 digit account number used to reference the credit card.
-	protected int accountNumber, choice;
-	// The last name of the credit card owner.
+	//variables needed for the account
+	protected int choice;
 	private String username,lastName, firstName;
-	// The credit limit of the credit card.
 	private double income;
 
 	
