@@ -5,3 +5,4 @@ It then will print out what to do with the income to respect the plan.
 
 The database is created using MySQL.
 Still in progress.
+-Install JDK, Maven and mySQL
